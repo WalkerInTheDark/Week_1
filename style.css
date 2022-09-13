@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.divB2{
+    color: red;;
+}
+
+.divMulti{
+    color: green;
+}
+
+.ParentChild{
+    color: blue;
+    width: 100%;
+}
